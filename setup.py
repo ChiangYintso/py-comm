@@ -2,9 +2,9 @@
 
 from setuptools import setup, find_packages
 
-from py_commons import __version__
+from py_comm import __version__
 
-name = "py_commons"
+name = "py_comm"
 setup(
     name=name,
     version=__version__,
